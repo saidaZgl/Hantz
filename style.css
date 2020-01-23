@@ -1,7 +1,6 @@
 h1 {
     color: #FFF;
     font-family: 'Open Sans', sans-serif;
-    text-align: center;
 }
 
 h2,
@@ -56,4 +55,8 @@ p {
 
 .asset {
     padding: 25px;
+}
+
+#text-home {
+    text-align: center;
 }
