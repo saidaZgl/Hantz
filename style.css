@@ -43,8 +43,17 @@ p {
     background-image: url('images/home.jpg');
     background-position: center center;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #asset-list {
     background-color: #48dbfb;
+    display: flex;
+    text-align: center;
+}
+
+.asset {
+    padding: 25px;
 }
