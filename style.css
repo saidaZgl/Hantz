@@ -1,0 +1,50 @@
+h1 {
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+h2,
+p {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #FFF;
+}
+
+#base-line {
+    font-size: 25px;
+}
+
+.asset-text {
+    font-size: 14px;
+}
+
+#my-avatar {
+    width: 35px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.picto {
+    width: 100px;
+}
+
+.btn-link {
+    border: 1px solid #FFF;
+    font-family: 'Open Sans';
+    border-radius: 5px;
+    padding: 9px;
+    color: #FFF;
+    text-decoration: None;
+}
+
+#home {
+    height: 100vh;
+    background-image: url('images/home.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+#asset-list {
+    background-color: #48dbfb;
+}
